@@ -10,7 +10,7 @@ class AppTextStyles {
   // نمط العناوين الرئيسية (مثل: Home Screen, Assignments)
   static const TextStyle headerStyle = TextStyle(
     fontSize: 24,
-    fontWeight: FontWeight.bold,
+    fontWeight: FontWeight.normal,
     color: primaryTextColor,
     fontFamily: 'Tajawal', // يفضل استخدام خط عربي مثل Tajawal
   );
